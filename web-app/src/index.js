@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import './index.css'
 import logo from './images/GG_Pic.png';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 const Footer = () =>{
   return (<section id="footer">
